@@ -2,9 +2,9 @@
 # Each line is a file pattern followed by one or more owners
 
 # The '*' pattern refers to all files in the repository
-*       ducky502
+       ducky502
 
 # Specific files or directories can have different owners
 /docs/  ducky502
-*.js    ducky502
+.js    ducky502
 /src/   ducky502
