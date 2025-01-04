@@ -5,7 +5,7 @@
        ducky502
 
 # Specific files or directories can have different owners
-/docs/  smileyFace.con
-.js     files
-/src/   smileyFace.com
+/docs/  ./docs/CODEOWNERS
+.js     .js/CODEOWNERS
+/src/   ./src/CODEOWNERS
 
