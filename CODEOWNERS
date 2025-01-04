@@ -6,6 +6,6 @@
 
 # Specific files or directories can have different owners
 /docs/  smileyFace.con
-.js    all files
+.js     files
 /src/   smileyFace.com
 
